@@ -129,6 +129,24 @@ Or to view the most recent entries in real-time:
 tail -f /path/to/sysinfo.log
 ```
 
+## Usage Example Screenshots
+
+Here are some screenshots demonstrating DevOpsFetch in action:
+
+### Checking Active Ports
+![Active Ports](path/to/ports_screenshot.png)
+This screenshot shows DevOpsFetch displaying all active ports on the system.
+
+### Listing Docker Containers
+![Docker Containers](path/to/docker_screenshot.png)
+Here, DevOpsFetch is listing all Docker containers running on the server.
+
+### Viewing Nginx Configurations
+![Nginx Configurations](path/to/nginx_screenshot.png)
+This image shows DevOpsFetch retrieving and displaying Nginx configurations.
+
+
+
 ## Contributing
 
 Feel free to contribute to this project by submitting issues or pull requests. Here are some ways you can help:
@@ -138,7 +156,4 @@ Feel free to contribute to this project by submitting issues or pull requests. H
 - Enhance the documentation with more examples or detailed explanations.
 
 ---
-
-Thank you for using DevOpsFetch! If you have any questions or need further assistance, please don't hesitate to reach out. Happy monitoring!
-
 
