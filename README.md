@@ -134,7 +134,7 @@ tail -f /path/to/sysinfo.log
 Here are some screenshots demonstrating DevOpsFetch in action:
 
 ### Checking Active Ports
-![Active Ports](path/to/ports_screenshot.png)
+![Active Ports](https://github.com/Jothamcloud/deploysfetchtool/blob/main/Active%20Ports.png)
 This screenshot shows DevOpsFetch displaying all active ports on the system.
 
 ### Listing Docker Containers
