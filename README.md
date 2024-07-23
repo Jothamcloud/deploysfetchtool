@@ -138,7 +138,7 @@ Here are some screenshots demonstrating DevOpsFetch in action:
 This screenshot shows DevOpsFetch displaying all active ports on the system.
 
 ### Listing Docker Containers
-![Docker Containers](path/to/docker_screenshot.png)
+![Docker Containers](https://github.com/Jothamcloud/deploysfetchtool/blob/main/Docker%20Containers%20.png)
 Here, DevOpsFetch is listing all Docker containers running on the server.
 
 ### Viewing Nginx Configurations
